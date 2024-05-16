@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-
 namespace Server;
 
 public class WebSocketController(Notifier notifier) : ControllerBase

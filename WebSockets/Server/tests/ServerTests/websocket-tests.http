@@ -1,7 +1,5 @@
 WEBSOCKET ws://localhost:5175
-Content-Type: application/json // used only for IDE highlighting.
-// Highlighting is applied for each message independently.
-
+Content-Type: application/json 
 
 {
   test this websocket
