@@ -1,6 +1,0 @@
-WEBSOCKET ws://localhost:5175
-Content-Type: application/json 
-
-{
-  test this websocket
-}
