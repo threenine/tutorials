@@ -1,0 +1,10 @@
+### GET base request
+GET {{host}}
+
+###
+
+< {%
+    request.variables.set("firstName", "Gary");
+    request.variables.set("lastName", "Woodfine");
+%}
+GET {{host}}/greet?first_name={{firstName}}&last_name={{lastName}}
