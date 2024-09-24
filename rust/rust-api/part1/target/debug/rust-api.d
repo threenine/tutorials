@@ -1,1 +1,0 @@
-/home/gary/Documents/threenine/tutorials/rust/rust-api/part1/target/debug/rust-api: /home/gary/Documents/threenine/tutorials/rust/rust-api/part1/src/main.rs /home/gary/Documents/threenine/tutorials/rust/rust-api/part1/src/routes/greetings.rs
