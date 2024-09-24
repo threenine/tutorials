@@ -1,0 +1,17 @@
+/home/gary/Documents/threenine/tutorials/rust-api/target/debug/deps/libtypenum-3d29ff1097368439.rmeta: /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs /home/gary/Documents/threenine/tutorials/rust-api/target/debug/build/typenum-b369635aa4e7a690/out/op.rs /home/gary/Documents/threenine/tutorials/rust-api/target/debug/build/typenum-b369635aa4e7a690/out/consts.rs
+
+/home/gary/Documents/threenine/tutorials/rust-api/target/debug/deps/typenum-3d29ff1097368439.d: /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs /home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs /home/gary/Documents/threenine/tutorials/rust-api/target/debug/build/typenum-b369635aa4e7a690/out/op.rs /home/gary/Documents/threenine/tutorials/rust-api/target/debug/build/typenum-b369635aa4e7a690/out/consts.rs
+
+/home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs:
+/home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs:
+/home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs:
+/home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs:
+/home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs:
+/home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs:
+/home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs:
+/home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs:
+/home/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs:
+/home/gary/Documents/threenine/tutorials/rust-api/target/debug/build/typenum-b369635aa4e7a690/out/op.rs:
+/home/gary/Documents/threenine/tutorials/rust-api/target/debug/build/typenum-b369635aa4e7a690/out/consts.rs:
+
+# env-dep:OUT_DIR=/home/gary/Documents/threenine/tutorials/rust-api/target/debug/build/typenum-b369635aa4e7a690/out
