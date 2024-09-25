@@ -1,0 +1,14 @@
+
+### GET Hello World
+GET {{host}}
+###
+
+### Personalised Greeting
+< {%
+    request.variables.set("firstName", "Gary");
+    request.variables.set("lastName", "Woodfine");
+%}
+GET {{host}}/greet?first_name={{firstName}}&last_name={{lastName}}
+
+
+
