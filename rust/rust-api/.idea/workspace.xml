@@ -7,9 +7,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bc4c8d8-5cd6-4e87-91da-61b47eb9a9c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/part2/src/routes/greetings.rs" afterDir="false" />
-    </list>
+    <list default="true" id="2bc4c8d8-5cd6-4e87-91da-61b47eb9a9c1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
